@@ -36,6 +36,7 @@ This project is a beginner-friendly JavaScript exercise that focuses on DOM mani
 7. Clean, user-friendly interface  
 8. Lightweight – no external libraries or frameworks  
 
+![image alt ] (https://github.com/Prashantkishorazad/Tik-Tak_Toe-Java.app-/blob/main/ScreenShot_1.jpeg?raw=true)
 
 ## 💡 Core Logic Explained  
 
